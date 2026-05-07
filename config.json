@@ -1,0 +1,16 @@
+{
+    "anticaptcha": {
+        "provider": "rucaptcha", 
+        "apiKey": "e239441f885099338d2d1fce8323a581"
+    },
+    "emails": {
+        "catchAllDomain": "vash-domain.com",
+        "imap": {
+            "host": "imap.yandex.ru",
+            "user": "postmaster@vash-domain.com",
+            "password": "ПАРОЛЬ_ОТ_ПОЧТЫ",
+            "port": 993,
+            "tls": true
+        }
+    }
+}
